@@ -12,5 +12,6 @@ We are Amelia Wardani and Putri Nirmalasari, two learners who enjoy exploring da
 - **Google BigQuery**
 - **Power BI**
 
-[Dataset Used]([LINK-KAGGLE](https://www.kaggle.com/datasets/divu2001/coffee-shop-sales-analysis?resource=download))
+[Dataset Used](https://www.kaggle.com/datasets/divu2001/coffee-shop-sales-analysis?resource=download)
+
 
