@@ -6,3 +6,11 @@ We are Amelia Wardani and Putri Nirmalasari, two learners who enjoy exploring da
 <P align="center">
 <img width="600" height="800" alt="KOPI" src="https://github.com/user-attachments/assets/917873cd-d645-45eb-b6c9-008a527aa6a4" />
 </P>
+
+## Tools Used
+- **Microsoft Excel**
+- **Google BigQuery**
+- **Power BI**
+
+[Dataset Used]([LINK-KAGGLE](https://www.kaggle.com/datasets/divu2001/coffee-shop-sales-analysis?resource=download))
+
