@@ -4,7 +4,7 @@ We are Amelia Wardani and Putri Nirmalasari, two learners who enjoy exploring da
 
 <h1 align="center">COFFEE SHOP SALES ANALYSIS</h1>
 <P align="center">
-<img width="200" height="400" alt="KOPI" src="https://github.com/user-attachments/assets/917873cd-d645-45eb-b6c9-008a527aa6a4" />
+<img width="600" height="400" alt="KOPI" src="https://github.com/user-attachments/assets/917873cd-d645-45eb-b6c9-008a527aa6a4" />
 </P>
 
 ## Tools Used
