@@ -14,4 +14,8 @@ We are Amelia Wardani and Putri Nirmalasari, two learners who enjoy exploring da
 
 [Dataset Used](https://www.kaggle.com/datasets/divu2001/coffee-shop-sales-analysis?resource=download)
 
+## Business Understanding
+This project used to analysis performance sales coffeeshop based on product type, transacation quantity, product category, total sales and store location 
+
+## Business Question
 
